@@ -1,0 +1,24 @@
+.wrapper{
+    margin:2em;
+
+}
+.title_slide2{
+    color:#7244C8;
+    margin-top: 80px;
+    text-align: center;
+}
+.title_slide2 h3{
+    margin-bottom:2.5em;
+}
+
+.title_span
+{
+    font-weight: 400;
+    display:inline;
+}
+
+.info_container{
+    display: grid;
+    grid-template-columns: repeat(3,350px);
+    grid-template-rows: repeat(2,300px);
+}

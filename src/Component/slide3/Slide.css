@@ -1,0 +1,9 @@
+.info_container{
+    display:grid;
+    grid-template-columns: repeat(3,350px);
+    grid-template-rows: repeat(1,300px);
+}
+.btn{
+    display: block;
+    margin: 0 auto
+}

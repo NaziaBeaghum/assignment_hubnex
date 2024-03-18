@@ -1,0 +1,17 @@
+.slide4_container
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.future_pic
+{
+    width:250px;
+    height: 350px;
+    
+
+}
+.future_talent
+{
+    flex: 45%;
+}

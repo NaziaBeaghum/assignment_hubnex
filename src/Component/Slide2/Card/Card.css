@@ -1,0 +1,14 @@
+
+
+.card_img{
+    width: 25px;
+}
+
+.card_container
+{
+     
+    padding: 20px;
+    border-radius: 10px;
+    background-color:#F6F6F6;
+    margin-right: 1em;
+}
